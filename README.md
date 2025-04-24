@@ -1,3 +1,17 @@
+Transfer Learning
+
+Steps:
+
+1.Preprocess Data: The images are converted from RGB to BGR, then each color channel is zero-centered .
+2.Loading of the pre-trained network.
+3.Freeze the convolutional base before compiling and train the model.
+4.Define a FNN architecture.
+5.Callbacks.
+6.Compile and train.
+
+
+
+
 # Image_classification_using_CNN_and_Transfer_Learning
 
 Classification Report for VGG16  : 
@@ -22,7 +36,12 @@ VGG16 Model
 ![image](https://github.com/user-attachments/assets/b9a3f88a-6843-4c8f-a63f-c1f6b2c5c87c)
 
  
+
+
 ![image](https://github.com/user-attachments/assets/17011ea8-0e4f-499c-ad45-3fc27ec21f99)
+
+
+
 
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/f83cf123-7139-484b-b13b-afec486a5b1c)
