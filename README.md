@@ -16,19 +16,13 @@ weighted avg       0.93      0.93      0.93      7500
 
 
 
-Prediction
+
+
+	
+![image](https://github.com/user-attachments/assets/b9a3f88a-6843-4c8f-a63f-c1f6b2c5c87c)
 
  
-         Actual   Prediction
-0	0	0
-1	3	3
-2	2	2
-3	3	3
-4	3	3
-...	...	...
-7495	3	3
-7496	3	3
-7497	3	3
-7498	0	0
-7499	3	3
+![image](https://github.com/user-attachments/assets/17011ea8-0e4f-499c-ad45-3fc27ec21f99)
+
+
 
