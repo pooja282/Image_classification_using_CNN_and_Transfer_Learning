@@ -1,6 +1,6 @@
 # Image_classification_using_CNN_and_Transfer_Learning
 
-Classification Report : 
+Classification Report for VGG16  : 
 
                 precision    recall  f1-score   support
 
